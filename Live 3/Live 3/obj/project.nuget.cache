@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DK9v8aQPTiWiZZ2PhFCOXPL1kcgxanonRtPe0cEJ/FUg97ywOnPT3vk4PgND0NUIss7Y22pcPuAXWAG94niiQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ruslan\\source\\repos\\Live 3\\Live 3\\Live 3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ruslan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

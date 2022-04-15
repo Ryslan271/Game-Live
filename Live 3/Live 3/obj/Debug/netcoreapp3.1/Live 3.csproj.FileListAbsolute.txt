@@ -1,0 +1,16 @@
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.exe
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.deps.json
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.runtimeconfig.json
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.runtimeconfig.dev.json
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.dll
+C:\Users\Ruslan\source\repos\Live 3\Live 3\bin\Debug\netcoreapp3.1\Live 3.pdb
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.csproj.AssemblyReference.cache
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live_3.Form1.resources
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.csproj.GenerateResource.cache
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.AssemblyInfoInputs.cache
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.AssemblyInfo.cs
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.dll
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.pdb
+C:\Users\Ruslan\source\repos\Live 3\Live 3\obj\Debug\netcoreapp3.1\Live 3.genruntimeconfig.cache
